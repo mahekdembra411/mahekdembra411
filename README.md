@@ -18,4 +18,10 @@ I'm a Computer Science student graduating in 2029 with a strong interest in soft
 ---
 [![](https://komarev.com/ghpvc/?username=mahekdembra411&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahekdembra411/mahekdembra411/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
